@@ -1,0 +1,10 @@
+# 忽略 SQLite 数据库文件
+db.sqlite3
+
+# 忽略日志文件
+geckodriver.log
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc
+
